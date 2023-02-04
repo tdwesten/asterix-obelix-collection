@@ -1,0 +1,406 @@
+[
+  {
+    "id": 1,
+    "cover": "/alb1nl.png",
+    "title": "Asterix de Galliër",
+    "originalTitle": "Astérix le Gaulois",
+    "releaseDate": "juli 1961",
+    "scenario": "René Goscinny",
+    "drawings": "Albert Uderzo",
+    "inCollection": true
+  },
+  {
+    "id": 2,
+    "cover": "/alb2nl.png",
+    "title": "Het gouden snoeimes",
+    "oldTitle": "Asterix en het gouden snoeimes",
+    "originalTitle": "La Serpe d'or",
+    "releaseDate": "juli 1962",
+    "scenario": "René Goscinny",
+    "drawings": "Albert Uderzo",
+    "inCollection": true
+  },
+  {
+    "id": 3,
+    "cover": "/alb3nl.png",
+    "title": "Asterix en de Goten",
+    "originalTitle": "Astérix et les Goths",
+    "releaseDate": "juli 1963",
+    "scenario": "René Goscinny",
+    "drawings": "Albert Uderzo",
+    "inCollection": true
+  },
+  {
+    "id": 4,
+    "cover": "/alb4nl.png",
+    "title": "Asterix als gladiator",
+    "originalTitle": "Astérix gladiateur",
+    "releaseDate": "juli 1964",
+    "scenario": "René Goscinny",
+    "drawings": "Albert Uderzo",
+    "inCollection": false
+  },
+  {
+    "id": 5,
+    "cover": "/alb5nl.png",
+    "title": "De ronde van Gallia",
+    "originalTitle": "Le Tour de Gaule d'Astérix",
+    "releaseDate": "januari 1965",
+    "scenario": "René Goscinny",
+    "drawings": "Albert Uderzo",
+    "inCollection": true
+  },
+  {
+    "id": 6,
+    "cover": "/alb6nl.png",
+    "oldId": 7,
+    "title": "Asterix en Cleopatra",
+    "originalTitle": "Astérix et Cléopâtre",
+    "releaseDate": "juli 1965",
+    "scenario": "René Goscinny",
+    "drawings": "Albert Uderzo",
+    "inCollection": true
+  },
+  {
+    "id": 7,
+    "cover": "/alb7nl.png",
+    "oldId": 3,
+    "title": "De strijd van de stamhoofden",
+    "oldTitle": "De kampioen",
+    "originalTitle": "Le Combat des chefs",
+    "releaseDate": "januari 1966",
+    "scenario": "René Goscinny",
+    "drawings": "Albert Uderzo",
+    "inCollection": true
+  },
+  {
+    "id": 8,
+    "cover": "/alb8nl.png",
+    "oldId": 4,
+    "title": "Asterix bij de Britten",
+    "oldTitle": "Asterix en de Britten",
+    "originalTitle": "Astérix chez les Bretons",
+    "releaseDate": "juli 1966",
+    "scenario": "René Goscinny",
+    "drawings": "Albert Uderzo",
+    "inCollection": true
+  },
+  {
+    "id": 9,
+    "cover": "/alb9nl.png",
+    "oldId": 11,
+    "title": "Asterix en de Noormannen",
+    "originalTitle": "Astérix et les Normands",
+    "releaseDate": "oktober 1966",
+    "scenario": "René Goscinny",
+    "drawings": "Albert Uderzo",
+    "inCollection": true
+  },
+  {
+    "id": 10,
+    "cover": "/alb10nl.png",
+    "oldId": 12,
+    "title": "Asterix als legioensoldaat",
+    "oldTitle": "Asterix en het 1ste legioen",
+    "originalTitle": "Astérix légionnaire",
+    "releaseDate": "juli 1967",
+    "scenario": "René Goscinny",
+    "drawings": "Albert Uderzo",
+    "inCollection": true
+  },
+  {
+    "id": 11,
+    "cover": "/alb11nl.png",
+    "oldId": 2,
+    "title": "Het ijzeren schild",
+    "oldTitle": "Asterix en het ijzeren schild",
+    "originalTitle": "Le Bouclier arverne",
+    "releaseDate": "januari 1968",
+    "scenario": "René Goscinny",
+    "drawings": "Albert Uderzo",
+    "inCollection": true
+  },
+  {
+    "id": 12,
+    "cover": "/alb12nl.png",
+    "title": "Asterix en de Olympische Spelen",
+    "originalTitle": "Astérix aux Jeux olympiques",
+    "releaseDate": "juli 1968",
+    "scenario": "René Goscinny",
+    "drawings": "Albert Uderzo",
+    "inCollection": true
+  },
+  {
+    "id": 13,
+    "cover": "/alb13nl.png",
+    "title": "Asterix en de koperen ketel",
+    "originalTitle": "Astérix et le Chaudron",
+    "releaseDate": "januari 1969",
+    "scenario": "René Goscinny",
+    "drawings": "Albert Uderzo",
+    "inCollection": true
+  },
+  {
+    "id": 14,
+    "cover": "/alb14nl.png",
+    "oldId": 15,
+    "title": "Asterix in Hispania",
+    "originalTitle": "Astérix en Hispanie",
+    "releaseDate": "oktober 1969",
+    "scenario": "René Goscinny",
+    "drawings": "Albert Uderzo",
+    "inCollection": true
+  },
+  {
+    "id": 15,
+    "cover": "/alb15nl.png",
+    "title": "De intrigant",
+    "originalTitle": "La Zizanie",
+    "releaseDate": "april 1970",
+    "scenario": "René Goscinny",
+    "drawings": "Albert Uderzo",
+    "inCollection": false
+  },
+  {
+    "id": 16,
+    "cover": "/alb16nl.png",
+    "title": "Asterix en de Helvetiërs",
+    "originalTitle": "Astérix chez les Helvètes",
+    "releaseDate": "oktober 1970",
+    "scenario": "René Goscinny",
+    "drawings": "Albert Uderzo",
+    "inCollection": false
+  },
+  {
+    "id": 17,
+    "cover": "/alb17nl.png",
+    "oldId": 18,
+    "title": "De Romeinse lusthof",
+    "originalTitle": "Le Domaine des dieux",
+    "releaseDate": "oktober 1971",
+    "scenario": "René Goscinny",
+    "drawings": "Albert Uderzo",
+    "inCollection": true
+  },
+  {
+    "id": 18,
+    "cover": "/alb18nl.png",
+    "oldId": 17,
+    "title": "De lauwerkrans van Caesar",
+    "originalTitle": "Les Lauriers de César",
+    "releaseDate": "januari 1972",
+    "scenario": "René Goscinny",
+    "drawings": "Albert Uderzo",
+    "inCollection": true
+  },
+  {
+    "id": 19,
+    "cover": "/alb19nl.png",
+    "title": "De ziener",
+    "originalTitle": "Le Devin",
+    "releaseDate": "oktober 1972",
+    "scenario": "René Goscinny",
+    "drawings": "Albert Uderzo",
+    "inCollection": false
+  },
+  {
+    "id": 20,
+    "cover": "/alb20nl.png",
+    "title": "Asterix op Corsica",
+    "originalTitle": "Astérix en Corse",
+    "releaseDate": "april 1973",
+    "scenario": "René Goscinny",
+    "drawings": "Albert Uderzo",
+    "inCollection": true
+  },
+  {
+    "id": 21,
+    "cover": "/alb21nl.png",
+    "title": "Het geschenk van Caesar",
+    "originalTitle": "Le Cadeau de César",
+    "releaseDate": "juli 1974",
+    "scenario": "René Goscinny",
+    "drawings": "Albert Uderzo",
+    "inCollection": false
+  },
+  {
+    "id": 22,
+    "cover": "/alb22nl.png",
+    "title": "De grote oversteek",
+    "originalTitle": "La Grande Traversée",
+    "releaseDate": "april 1975",
+    "scenario": "René Goscinny",
+    "drawings": "Albert Uderzo",
+    "inCollection": true
+  },
+  {
+    "id": 23,
+    "cover": "/alb23nl.png",
+    "title": "Obelix & Co.",
+    "originalTitle": "Obélix et Compagnie",
+    "releaseDate": "april 1976",
+    "scenario": "René Goscinny",
+    "drawings": "Albert Uderzo",
+    "inCollection": true
+  },
+  {
+    "id": 24,
+    "cover": "/alb24nl.png",
+    "title": "Asterix en de Belgen",
+    "originalTitle": "Astérix chez les Belges",
+    "releaseDate": "januari 1979",
+    "scenario": "René Goscinny",
+    "drawings": "Albert Uderzo",
+    "inCollection": true
+  },
+  {
+    "id": 25,
+    "cover": "/alb25nl.png",
+    "title": "De broedertwist",
+    "originalTitle": "Le Grand Fossé",
+    "releaseDate": "april 1980",
+    "scenario": "Albert Uderzo",
+    "drawings": "Albert Uderzo",
+    "inCollection": true
+  },
+  {
+    "id": 26,
+    "cover": "/alb26nl.png",
+    "title": "De odyssee van Asterix",
+    "originalTitle": "L'Odyssée d'Astérix",
+    "releaseDate": "oktober 1981",
+    "scenario": "Albert Uderzo",
+    "drawings": "René Goscinny",
+    "inCollection": true
+  },
+  {
+    "id": 27,
+    "cover": "/alb27nl.png",
+    "title": "De zoon van Asterix",
+    "originalTitle": "Le Fils d'Astérix",
+    "releaseDate": "oktober 1983",
+    "scenario": "René Goscinny",
+    "drawings": "Albert Uderzo",
+    "inCollection": true
+  },
+  {
+    "id": 28,
+    "cover": "/alb28nl.png",
+    "title": "Asterix in Indus-land",
+    "originalTitle": "Astérix chez Rahàzade",
+    "releaseDate": "oktober 1987",
+    "scenario": "Albert Uderzo",
+    "drawings": "Albert Uderzo",
+    "inCollection": false
+  },
+  {
+    "id": 29,
+    "cover": "/alb29nl.png",
+    "title": "De roos en het zwaard",
+    "originalTitle": "La Rose et le Glaive",
+    "releaseDate": "oktober 1991",
+    "scenario": "Albert Uderzo",
+    "drawings": "Albert Uderzo",
+    "inCollection": false
+  },
+  {
+    "id": 30,
+    "cover": "/alb30nl.png",
+    "title": "De beproeving van Obelix",
+    "originalTitle": "La Galère d'Obélix",
+    "releaseDate": "juli 1996",
+    "scenario": "René Goscinny",
+    "drawings": "Albert Uderzo",
+    "inCollection": true
+  },
+  {
+    "id": 31,
+    "cover": "/alb31nl.png",
+    "title": "Asterix en Latraviata",
+    "originalTitle": "Astérix et Latraviata",
+    "releaseDate": "maart 2001",
+    "scenario": "Albert Uderzo",
+    "drawings": "Albert Uderzo",
+    "inCollection": true
+  },
+  {
+    "id": 32,
+    "cover": "/alb32nl.png",
+    "title": "Het pretpakket",
+    "originalTitle": "Astérix et la Rentrée gauloise",
+    "releaseDate": "augustus 2003",
+    "scenario": "René Goscinny",
+    "drawings": "Albert Uderzo",
+    "inCollection": true
+  },
+  {
+    "id": 33,
+    "cover": "/alb33nl.png",
+    "title": "Het geheime wapen",
+    "originalTitle": "Le ciel lui tombe sur la tête",
+    "releaseDate": "oktober 2005",
+    "scenario": "Albert Uderzo",
+    "drawings": "Albert Uderzo",
+    "inCollection": true
+  },
+  {
+    "id": 34,
+    "cover": "/alb34nl.png",
+    "title": "De verjaardag van Asterix & Obelix: Het guldenboek",
+    "originalTitle": "L'Anniversaire d'Astérix et Obélix - Le Livre d'or",
+    "releaseDate": "oktober 2009",
+    "scenario": "Albert Uderzo",
+    "drawings": "Albert Uderzo",
+    "inCollection": false
+  },
+  {
+    "id": 35,
+    "cover": "/alb35nl.png",
+    "title": "Asterix bij de Picten",
+    "originalTitle": "Astérix chez les Pictes",
+    "releaseDate": "oktober 2013",
+    "scenario": "Jean-Yves Ferri",
+    "drawings": "Didier Conrad",
+    "inCollection": true
+  },
+  {
+    "id": 36,
+    "cover": "/alb36nl.png",
+    "title": "De papyrus van Caesar",
+    "originalTitle": "Le Papyrus de César",
+    "releaseDate": "oktober 2015",
+    "scenario": "Jean-Yves Ferri",
+    "drawings": "Didier Conrad",
+    "inCollection": false
+  },
+  {
+    "id": 37,
+    "cover": "/alb37nl.png",
+    "title": "Asterix en de Race door de Laars",
+    "originalTitle": "Astérix et la Transitalique",
+    "releaseDate": "oktober 2017",
+    "scenario": "Jean-Yves Ferri",
+    "drawings": "Didier Conrad",
+    "inCollection": false
+  },
+  {
+    "id": 38,
+    "cover": "/alb38nl.png",
+    "title": "De dochter van de veldheer",
+    "originalTitle": "La Fille de Vercingétorix",
+    "releaseDate": "oktober 2019",
+    "scenario": "Jean-Yves Ferri",
+    "drawings": "Didier Conrad",
+    "inCollection": false
+  },
+  {
+    "id": 39,
+    "cover": "/alb39nl.png",
+    "title": "Asterix en de Griffioen",
+    "originalTitle": "Astérix et le Griffon",
+    "releaseDate": "oktober 2021",
+    "scenario": "Jean-Yves Ferri",
+    "drawings": "Didier Conrad",
+    "inCollection": true
+  }
+]

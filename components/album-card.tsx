@@ -4,7 +4,7 @@ import { Album } from "../types/album";
 
 export default function AlbumCard({ album }: { album: Album }) {
   function getClasses(): string | undefined {
-    let classes = "rounded shadow-lg bg-white";
+    let classes = "rounded shadow-lg bg-white overflow-hidden";
 
     return classes;
   }
@@ -19,8 +19,10 @@ export default function AlbumCard({ album }: { album: Album }) {
         className={album.inCollection ? "" : " grayscale opacity-75"}
       />
       <div className="p-3 text-center">
-        <h2 className="mb-3 font-bold leading-tight ">{album.title}</h2>
-        <p className="font-serif italic text-gray-500">{album.releaseDate}</p>
+        <h2 className="mb-2 font-bold leading-tight ">{album.title}</h2>
+        <p className="font-serif text-sm italic text-gray-500">
+          {album.releaseDate}
+        </p>
       </div>
     </div>
   );

@@ -4,8 +4,8 @@ import FilterButton from "./filter-button";
 
 export default function Filters({}: {}) {
   return (
-    <div className="flex gap-5 mt-10">
-      <div className="p-3 text-gray-600">Show</div>
+    <div className="flex items-center gap-5 px-10">
+      <div className="text-gray-600 dark:text-gray-400">Show</div>
       <div className="flex overflow-hidden font-mono text-sm border border-gray-400 rounded ">
         <FilterButton value="all" label="All" isActive={true} />
 

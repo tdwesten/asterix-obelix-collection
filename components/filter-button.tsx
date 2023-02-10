@@ -14,11 +14,13 @@ export default function FiltersButton({
   const pathname = usePathname();
 
   const classes = [
-    "px-5 py-3 border-l border-gray-300  first-of-type:border-l-0",
+    "px-5 py-3 border-l dark:text-gray-400 border-gray-300 dark:border-gray-800  first-of-type:border-l-0",
   ];
 
   classes.push(
-    pathname === `/${value}` ? "bg-slate-200 font-bold" : "hover:bg-slate-200"
+    pathname === `/${value}` || (pathname === "/" && value === "all")
+      ? "bg-slate-200 dark:bg-gray-700 font-bold"
+      : "hover:bg-slate-200 hover:dark:bg-gray-600"
   );
 
   const href = () => {

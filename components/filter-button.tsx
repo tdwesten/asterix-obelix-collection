@@ -1,29 +1,37 @@
-import { MouseEventHandler } from "react";
+"use client";
+import Link from "next/link";
+import { usePathname } from "next/navigation";
 
 export default function FiltersButton({
   value,
   isActive,
-  onFilterChange,
   label,
 }: {
   value: string;
   isActive: boolean;
   label: string;
-  onFilterChange: MouseEventHandler<HTMLButtonElement>;
 }) {
+  const pathname = usePathname();
+
   const classes = [
     "px-5 py-3 border-l border-gray-300  first-of-type:border-l-0",
   ];
 
-  classes.push(isActive ? "bg-slate-200 font-bold" : "hover:bg-slate-200");
+  classes.push(
+    pathname === `/${value}` ? "bg-slate-200 font-bold" : "hover:bg-slate-200"
+  );
+
+  const href = () => {
+    if ("all" === value) {
+      return "/";
+    }
+
+    return `/${value}`;
+  };
 
   return (
-    <button
-      value={value}
-      onClick={onFilterChange}
-      className={classes.join(" ")}
-    >
+    <Link href={href()} className={classes.join(" ")}>
       {label}
-    </button>
+    </Link>
   );
 }

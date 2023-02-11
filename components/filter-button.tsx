@@ -14,7 +14,7 @@ export default function FiltersButton({
   const pathname = usePathname();
 
   const classes = [
-    "px-5 py-3 border-l dark:text-gray-400 border-gray-300 dark:border-gray-800  first-of-type:border-l-0",
+    "px-2  sm:px-5 py-3 border-l dark:text-gray-400 border-gray-300 dark:border-gray-800  first-of-type:border-l-0",
   ];
 
   classes.push(

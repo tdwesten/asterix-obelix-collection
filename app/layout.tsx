@@ -19,20 +19,15 @@ export default function RootLayout({
 
   return (
     <html lang="en" className={inter.className}>
-      {/*
-        <head /> will contain the components returned by the nearest parent
-        head.tsx. Find out more at https://beta.nextjs.org/docs/api-reference/file-conventions/head
-      */}
       <head />
       <body className="dark:bg-gray-800">
         <div className="flex flex-col mx-auto max-w-7xl">
-          <header className="sticky top-0 z-30 flex flex-col justify-center p-10 bg-white dark:bg-gray-800">
-            <h2 className="flex items-center gap-2 text-2xl font-bold dark:text-gray-100">
+          <header className="sticky top-0 z-30 flex flex-col justify-center p-4 bg-white sm:p-10 dark:bg-gray-800">
+            <h2 className="text-lg font-bold sm:text-2xl dark:text-gray-100">
               <span className="font-normal ">Thomas&apos;</span> Asterix &
-              Obelix
-              <span className="font-normal">Collection</span>
+              Obelix <span className="font-normal">Collection</span>
             </h2>
-            <p className="text-sm text-gray-500 dark:text-gray-400">
+            <p className="text-xs text-gray-500 sm:text-sm dark:text-gray-400">
               {inCollection.length} albums collected out of the {albums.length}{" "}
               published albums. Grayed out albums({notInCollection.length}) are
               not (jet) in my collection.

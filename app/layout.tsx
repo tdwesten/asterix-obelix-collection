@@ -4,6 +4,7 @@ import { Inter } from "@next/font/google";
 import collection from "./data/collection.json";
 import { Album } from "../types/album";
 import Filters from "../components/filters";
+import { AnalyticsWrapper } from "../components/analytics";
 
 const inter = Inter({ subsets: ["latin"] });
 
@@ -40,6 +41,7 @@ export default function RootLayout({
           <Filters />
           {children}
         </div>
+        <AnalyticsWrapper />
       </body>
     </html>
   );

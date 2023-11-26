@@ -402,5 +402,15 @@
     "scenario": "Jean-Yves Ferri",
     "drawings": "Didier Conrad",
     "inCollection": true
+  },
+  {
+    "id": 40,
+    "cover": "/alb40nl.png",
+    "title": "De witte iris",
+    "originalTitle": "L’Iris blanc",
+    "releaseDate": "oktober 2023",
+    "scenario": "Fabcaro",
+    "drawings": "Didier Conrad",
+    "inCollection": true
   }
 ]

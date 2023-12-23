@@ -159,7 +159,7 @@
     "releaseDate": "april 1970",
     "scenario": "René Goscinny",
     "drawings": "Albert Uderzo",
-    "inCollection": false
+    "inCollection": true
   },
   {
     "id": 16,
@@ -169,7 +169,7 @@
     "releaseDate": "oktober 1970",
     "scenario": "René Goscinny",
     "drawings": "Albert Uderzo",
-    "inCollection": false
+    "inCollection": true
   },
   {
     "id": 17,

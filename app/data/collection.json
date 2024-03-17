@@ -351,7 +351,7 @@
     "releaseDate": "oktober 2009",
     "scenario": "Albert Uderzo",
     "drawings": "Albert Uderzo",
-    "inCollection": true 
+    "inCollection": true
   },
   {
     "id": 35,
@@ -381,7 +381,7 @@
     "releaseDate": "oktober 2017",
     "scenario": "Jean-Yves Ferri",
     "drawings": "Didier Conrad",
-    "inCollection": false
+    "inCollection": true
   },
   {
     "id": 38,

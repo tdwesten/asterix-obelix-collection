@@ -1,4 +1,4 @@
-import { Inter } from "@next/font/google";
+import { Inter } from "next/font/google";
 import { SpeedInsights } from "@vercel/speed-insights/next";
 import React from "react";
 import { AnalyticsWrapper } from "../components/analytics";
@@ -35,9 +35,9 @@ export default function RootLayout({
           </header>
           <Filters />
           {children}
+          <SpeedInsights />
         </div>
         <AnalyticsWrapper />
-        <SpeedInsights />
       </body>
     </html>
   );

@@ -1,11 +1,11 @@
-import "./globals.css";
-import React from "react";
 import { Inter } from "@next/font/google";
-import collection from "./data/collection.json";
-import { Album } from "../types/album";
-import Filters from "../components/filters";
+import { SpeedInsights } from "@vercel/speed-insights/next";
+import React from "react";
 import { AnalyticsWrapper } from "../components/analytics";
-
+import Filters from "../components/filters";
+import { Album } from "../types/album";
+import collection from "./data/collection.json";
+import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export default function RootLayout({
@@ -37,6 +37,7 @@ export default function RootLayout({
           {children}
         </div>
         <AnalyticsWrapper />
+        <SpeedInsights />
       </body>
     </html>
   );
